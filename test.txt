@@ -2,3 +2,8 @@ Testing txt file
 
 
 Creating branch2
+
+
+Adding this line to test if branch2 will merge
+
+Adding this line to get ahead of branch2

@@ -1,6 +1,8 @@
 Testing txt file
 
-Creating branch1
+
+Creating branch2
+
 
 Adding this line to test if branch2 will merge
 
